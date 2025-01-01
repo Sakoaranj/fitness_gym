@@ -1,0 +1,171 @@
+[01-Jan-2025 06:44:08 Europe/Berlin] Processing subscription for User ID: 3
+[01-Jan-2025 06:44:08 Europe/Berlin] POST data: Array
+(
+    [plan_id] => 2
+    [payment_method] => gcash
+    [payment_reference] => 423535235
+)
+
+[01-Jan-2025 06:44:08 Europe/Berlin] Plan details: Array
+(
+    [id] => 2
+    [name] => Premium Plan
+    [description] => For dedicated fitness enthusiasts
+    [duration] => 3
+    [price] => 4000.00
+    [features] => All Basic Plan features
+Personal trainer sessions
+Nutrition consultation
+Access to all classes
+Protein shake per session
+    [is_active] => 1
+    [created_at] => 2024-12-30 02:16:49
+    [status] => active
+)
+
+[01-Jan-2025 06:44:08 Europe/Berlin] Payment proof uploaded successfully: payment_6774d628d6e0a.jpg
+[01-Jan-2025 06:44:08 Europe/Berlin] Creating payment record with data: Array
+(
+    [:user_id] => 3
+    [:amount] => 4000.00
+    [:payment_reference] => 423535235
+    [:payment_screenshot] => payment_6774d628d6e0a.jpg
+)
+
+[01-Jan-2025 06:44:08 Europe/Berlin] Payment record created successfully with ID: 14
+[01-Jan-2025 06:44:08 Europe/Berlin] Subscription dates - Start: 2025-01-01, End: 2025-04-01
+[01-Jan-2025 06:44:08 Europe/Berlin] Creating subscription record with data: Array
+(
+    [:user_id] => 3
+    [:plan] => Premium Plan
+    [:amount] => 4000.00
+    [:start_date] => 2025-01-01
+    [:end_date] => 2025-04-01
+    [:payment_id] => 14
+)
+
+[01-Jan-2025 06:44:08 Europe/Berlin] Subscription record created successfully
+[01-Jan-2025 06:44:08 Europe/Berlin] Transaction committed successfully
+[01-Jan-2025 06:57:01 Europe/Berlin] Processing subscription for User ID: 3
+[01-Jan-2025 06:57:01 Europe/Berlin] POST data: Array
+(
+    [plan_id] => 2
+    [payment_method] => gcash
+    [payment_reference] => 242424
+)
+
+[01-Jan-2025 06:57:01 Europe/Berlin] Plan details: Array
+(
+    [id] => 2
+    [name] => Premium Plan
+    [description] => For dedicated fitness enthusiasts
+    [duration] => 3
+    [price] => 4000.00
+    [features] => All Basic Plan features
+Personal trainer sessions
+Nutrition consultation
+Access to all classes
+Protein shake per session
+    [is_active] => 1
+    [created_at] => 2024-12-30 02:16:49
+    [status] => active
+)
+
+[01-Jan-2025 06:57:01 Europe/Berlin] Payment proof uploaded successfully: payment_6774d92d13954.jpg
+[01-Jan-2025 06:57:01 Europe/Berlin] Creating payment record with data: Array
+(
+    [:user_id] => 3
+    [:amount] => 4000.00
+    [:payment_reference] => 242424
+    [:payment_screenshot] => payment_6774d92d13954.jpg
+)
+
+[01-Jan-2025 06:57:01 Europe/Berlin] Payment record created successfully with ID: 15
+[01-Jan-2025 06:57:01 Europe/Berlin] Subscription dates - Start: 2025-01-01, End: 2025-04-01
+[01-Jan-2025 06:57:01 Europe/Berlin] Creating subscription record with data: Array
+(
+    [:user_id] => 3
+    [:plan] => Premium Plan
+    [:amount] => 4000.00
+    [:start_date] => 2025-01-01
+    [:end_date] => 2025-04-01
+    [:payment_id] => 15
+)
+
+[01-Jan-2025 06:57:01 Europe/Berlin] Subscription record created successfully
+[01-Jan-2025 06:57:01 Europe/Berlin] Transaction committed successfully
+[01-Jan-2025 07:05:18 Europe/Berlin] Processing subscription for User ID: 3
+[01-Jan-2025 07:05:18 Europe/Berlin] POST data: Array
+(
+    [plan_id] => 3
+    [payment_method] => gcash
+    [payment_reference] => 35
+)
+
+[01-Jan-2025 07:05:18 Europe/Berlin] Plan details: Array
+(
+    [id] => 3
+    [name] => Elite Plan
+    [description] => Ultimate fitness experience
+    [duration] => 6
+    [price] => 7000.00
+    [features] => All Premium Plan features
+Unlimited guest passes
+Priority class booking
+Monthly body composition analysis
+Custom meal plans
+    [is_active] => 1
+    [created_at] => 2024-12-30 02:16:49
+    [status] => active
+)
+
+[01-Jan-2025 07:05:18 Europe/Berlin] Payment proof uploaded successfully: payment_6774db1e4250e.jpg
+[01-Jan-2025 07:05:18 Europe/Berlin] Payment record created with ID: 16
+[01-Jan-2025 07:15:27 Europe/Berlin] Processing subscription for User ID: 3
+[01-Jan-2025 07:15:27 Europe/Berlin] POST data: Array
+(
+    [plan_id] => 2
+    [payment_method] => gcash
+    [payment_reference] => 779
+)
+
+[01-Jan-2025 07:15:27 Europe/Berlin] Plan details: Array
+(
+    [id] => 2
+    [name] => Premium Plan
+    [description] => For dedicated fitness enthusiasts
+    [duration] => 3
+    [price] => 4000.00
+    [features] => All Basic Plan features
+Personal trainer sessions
+Nutrition consultation
+Access to all classes
+Protein shake per session
+    [is_active] => 1
+    [created_at] => 2024-12-30 02:16:49
+    [status] => active
+)
+
+[01-Jan-2025 07:15:27 Europe/Berlin] Payment proof uploaded successfully: payment_6774dd7fe89b7.jpg
+[01-Jan-2025 07:15:27 Europe/Berlin] Creating payment record with data: Array
+(
+    [:user_id] => 3
+    [:amount] => 4000.00
+    [:payment_reference] => 779
+    [:payment_screenshot] => payment_6774dd7fe89b7.jpg
+)
+
+[01-Jan-2025 07:15:27 Europe/Berlin] Payment record created successfully with ID: 17
+[01-Jan-2025 07:15:27 Europe/Berlin] Subscription dates - Start: 2025-01-01, End: 2025-04-01
+[01-Jan-2025 07:15:27 Europe/Berlin] Creating subscription record with data: Array
+(
+    [:user_id] => 3
+    [:plan] => Premium Plan
+    [:amount] => 4000.00
+    [:start_date] => 2025-01-01
+    [:end_date] => 2025-04-01
+    [:payment_id] => 17
+)
+
+[01-Jan-2025 07:15:27 Europe/Berlin] Subscription record created successfully
+[01-Jan-2025 07:15:27 Europe/Berlin] Transaction committed successfully
